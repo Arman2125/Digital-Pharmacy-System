@@ -70,3 +70,9 @@ License can be added later if required.
 Git & GitHub
 Nodemon
 dotenv
+
+To Run the project
+
+Navigate Terminal to Digital Pharmacy System and type this command
+>>npm run dev
+>>before run it download all package :- npm install
